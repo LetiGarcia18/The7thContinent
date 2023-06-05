@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 8efa0f80b9acf3448aa0238c6524f058
+  - enabled: 1
+    path: Assets/Scenes/UserManualP1.unity
+    guid: 8be11e9ec2c5ba040adfe0a3d09613cb
+  - enabled: 1
+    path: Assets/Scenes/UserManualP2.unity
+    guid: b75acfe5588b4d343b7c623635076c41
+  - enabled: 1
+    path: Assets/Scenes/UserManualP3.unity
+    guid: b30ec6193347b7046bfa51f7f3b83062
+  - enabled: 1
+    path: Assets/Scenes/UserManualP4.unity
+    guid: f167cb1b9b6344844890b3dae125c41e
+  - enabled: 1
+    path: Assets/Scenes/UserManualP5.unity
+    guid: 9c2b7029101ab9d4ea5f701fa7859dc0
+  - enabled: 1
+    path: Assets/Scenes/UserManualP6.unity
+    guid: 70fbc9cb71474c948b2d457b9dca1c33
+  - enabled: 1
+    path: Assets/Scenes/UserManualP7.unity
+    guid: cacc76d4c67db8b4fb76cd1b7ec94bda
+  - enabled: 1
+    path: Assets/Scenes/MiniGamesMenu.unity
+    guid: 647b8dafb552a9b49b8e0ed09c7bfddb
+  - enabled: 1
+    path: Assets/Scenes/MiniGameCards.unity
+    guid: 85607f57545158649ad07cf8a8383572
+  - enabled: 1
+    path: Assets/Scenes/MiniGamePingPong.unity
+    guid: ae116be4fb1c77f4ea20209ff2eb2c9e
+  - enabled: 1
+    path: Assets/Scenes/ChooseYourPlayer.unity
+    guid: a037bf5910a9ae4489129a3b1c68fdc5
+  - enabled: 1
+    path: Assets/Scenes/CharacterStoryP1.unity
+    guid: 345f60cd8b8b72c4494784852ac2c99b
+  - enabled: 1
+    path: Assets/Scenes/CharacterStoryP2.unity
+    guid: a7b369d636249e840bc46128a90f9fa2
+  - enabled: 1
+    path: Assets/Scenes/CharacterStoryP3.unity
+    guid: ba9072fff89b03a4e8ce8291faa0eb09
+  - enabled: 1
+    path: Assets/Scenes/CharacterStoryP4.unity
+    guid: aa21bac1300541f4da0bc32e365db311
+  - enabled: 1
+    path: Assets/Scenes/ExpressTutorial.unity
+    guid: 2a45472f4682212488edba2dc618dafe
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/CharacterStoryP5.unity
+    guid: 668af3e0ebe77ce48a164b3c07470571
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: d65c8dfaade0c3342be213d2c338b3d8
+  - enabled: 1
+    path: Assets/Scenes/CharacterStoryP6.unity
+    guid: af649f26836fb6c42846ce4a8c75915c
+  - enabled: 1
+    path: Assets/Scenes/CharacterStoryP7.unity
+    guid: f230feb79e845b54abe4701b349667a9
+  - enabled: 1
+    path: Assets/Scenes/CharacterStoryP8.unity
+    guid: 23cbf589151048e40a4808d6e3f7881e
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: ab9d9d2f9da8e904aba83d0e889e545d
+  - enabled: 1
+    path: Assets/Scenes/BlackScene.unity
+    guid: d3c8dc1f7935cb84080f7c222c2d78e6
+  - enabled: 1
+    path: Assets/Scenes/SubmarineSceneP1.unity
+    guid: 2b1134c54b5e9624392bf8877008f119
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: a61671b194a0d0940a8b00b42d6e7fff
+  - enabled: 1
+    path: Assets/Scenes/SubmarineSceneP2.unity
+    guid: e7691fc7333d4be47b765369e24502a9
+  - enabled: 1
+    path: Assets/Scenes/SurviveTheLavaEnemy.unity
+    guid: f150ead94782c9c418b97f69ffc37db4
+  - enabled: 1
+    path: Assets/Scenes/TheEnd.unity
+    guid: 90096aa4d2dbc994e9a0394d0b40a7d2
+  - enabled: 1
+    path: Assets/Scenes/CreditScene.unity
+    guid: 67054338a22c33f4b837476e1e8b2c4d
+  m_configObjects: {}

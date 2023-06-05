@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Map
+  - WomanPlayer
+  - Enemy
+  - playerText
+  - playerScore
+  - playerDate
+  - Paddle
+  - Goal1
+  - Gem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3753124303
+    locked: 0
+  - name: Midground
+    uniqueID: 1031272777
+    locked: 0
+  - name: Foreground
+    uniqueID: 438523833
+    locked: 0
+  - name: LavaLayer
+    uniqueID: 2687985475
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
